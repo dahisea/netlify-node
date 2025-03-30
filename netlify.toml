@@ -1,4 +1,28 @@
 [[redirects]]
+  from = "/"
+  to = "https://gfork.dahi.icu/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/favicon.ico"
+  to = "https://gfork.dahi.icu/favicon.ico"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/redirect/to"
+  to = "https://gfork.dahi.icu/redirect/to"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/redirect/"
+  to = "https://gfork.dahi.icu/redirect/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "https://gfork.dahi.icu/:splat"
   status = 200
