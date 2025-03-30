@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://gfork.dahi.icu/:splat"
+  to = "https://capi.dahi.eu.org"
   status = 200
   force = true
