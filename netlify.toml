@@ -5,6 +5,12 @@
   force = true
 
 [[redirects]]
+  from = "/404"
+  to = "https://gfork.dahi.icu/404"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/favicon.ico"
   to = "https://gfork.dahi.icu/favicon.ico"
   status = 301
