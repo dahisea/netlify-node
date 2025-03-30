@@ -1,3 +1,5 @@
-[[edge_functions]]
-  function = "f"
-  path = "/*"
+[[redirects]]
+  from = "/*"
+  to = "https://gfork.dahi.icu/:splat"
+  status = 200
+  force = true
