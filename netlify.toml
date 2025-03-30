@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://capi.dahi.eu.org"
+  to = "https://capi.dahi.eu.org/:splat"
   status = 200
   force = true
