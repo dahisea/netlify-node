@@ -31,5 +31,5 @@
 [[redirects]]
   from = "/*"
   to = "https://gfork.dahi.icu/:splat"
-  status = 200
+  status = 301
   force = true
