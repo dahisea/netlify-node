@@ -19,5 +19,5 @@
 [[redirects]]
   from = "/*"
   to = "https://greasyfork.org.cn/:splat"
-  status = 200
+  status = 302
   force = true
