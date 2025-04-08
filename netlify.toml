@@ -1,35 +1,23 @@
 [[redirects]]
   from = "/"
-  to = "https://gfork.dahi.icu/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/404"
-  to = "https://gfork.dahi.icu/404"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/favicon.ico"
-  to = "https://gfork.dahi.icu/favicon.ico"
+  to = "https://greasyfork.org.cn/zh-hans"
   status = 301
   force = true
 
 [[redirects]]
   from = "/redirect/to"
-  to = "https://gfork.dahi.icu/redirect/to"
-  status = 301
+  to = "https://thepage-gfork.zh-hk.eu.org/redirect/to"
+  status = 302
   force = true
 
 [[redirects]]
   from = "/redirect/"
-  to = "https://gfork.dahi.icu/redirect/"
-  status = 301
+  to = "https://thepage-gfork.zh-hk.eu.org/redirect/"
+  status = 302
   force = true
 
 [[redirects]]
   from = "/*"
-  to = "https://gfork.dahi.icu/:splat"
-  status = 301
+  to = "https://greasyfork.org.cn/:splat"
+  status = 200
   force = true
