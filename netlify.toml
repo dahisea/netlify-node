@@ -13,17 +13,17 @@
 [[redirects]]
   from = "/redirect/to"
   to = "https://thepage-gfork.zh-hk.eu.org/redirect/to"
-  status = 302
+  status = 308
   force = true
 
 [[redirects]]
   from = "/redirect/"
   to = "https://thepage-gfork.zh-hk.eu.org/redirect/"
-  status = 302
+  status = 308
   force = true
 
 [[redirects]]
   from = "/*"
   to = "https://greasyfork.org.cn/:splat"
-  status = 302
+  status = 308
   force = true
