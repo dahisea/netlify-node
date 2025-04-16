@@ -1,7 +1,7 @@
 [[redirects]]
   from = "/"
-  to = "https://thepage-gfork.zh-hk.eu.org/"
-  status = 200
+  to = "https://greasyfork.org.cn/"
+  status = 308
   force = true
 
 [[redirects]]
