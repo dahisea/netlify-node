@@ -26,4 +26,3 @@
   from = "/*"
   to = "https://greasyfork.org.cn/:splat"
   status = 308
-  force = true
